@@ -1,0 +1,2770 @@
+{
+    "meta": {
+        "uuid": "0194da01-22f7-9ce3-9d65-9fe2ad477e42",
+        "errors": []
+    },
+    "response": {
+        "businessId": 3668711,
+        "queryId": "0194da01-2308-1966-b906-9c8705183d3b",
+        "resultsCount": 4275,
+        "results": [
+            {
+                "data": {
+                    "id": "4029",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/wuziazibieke-jiahefu",
+                    "name": "Wuziazibieke Jiahefu",
+                    "c_activeInAnswers": true,
+                    "c_age": "34",
+                    "c_dOB": "1990-04-09",
+                    "c_fightingOutOfCountry": "China",
+                    "c_fightingOutOfState": "Hebei",
+                    "c_fightingOutOfTriCode": "CHN",
+                    "c_height": "69.0",
+                    "c_homeCountry": "China",
+                    "c_homeState": [
+                        "Xinjiang"
+                    ],
+                    "c_homeTriCode": "CHN",
+                    "c_nickname": "Prairie Kitty",
+                    "c_photo": {
+                        "url": "https://a.mktgcdn.com/p/evLK5pNAcag0iIw8J-1i6jT7B-KQZYlGrN5zWi0vyqw/520x325.png",
+                        "width": 520,
+                        "height": 325,
+                        "sourceUrl": "https://ufclivepubstorage.blob.core.windows.net/public-files/7a53cd2e-53ff-490d-8935-af4c7ade699d/JIAHEFU_WUZIAZBIEKE.png",
+                        "thumbnails": [
+                            {
+                                "url": "https://a.mktgcdn.com/p/evLK5pNAcag0iIw8J-1i6jT7B-KQZYlGrN5zWi0vyqw/520x325.png",
+                                "width": 520,
+                                "height": 325
+                            },
+                            {
+                                "url": "https://a.mktgcdn.com/p/evLK5pNAcag0iIw8J-1i6jT7B-KQZYlGrN5zWi0vyqw/196x123.png",
+                                "width": 196,
+                                "height": 123
+                            }
+                        ]
+                    },
+                    "c_reach": "70.5",
+                    "c_recordDraws": "1",
+                    "c_recordLosses": "12",
+                    "c_recordNoContests": "0",
+                    "c_recordWins": "29",
+                    "c_stance": "Orthodox",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Wuziazibieke-Jiahefu",
+                    "c_weight": "145.0",
+                    "c_weightClass": "Featherweight",
+                    "c_weightClassAbbreviation": "FTW",
+                    "c_weightClassId": "6",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Wuziazibieke",
+                    "gender": "Male",
+                    "lastName": "Jiahefu",
+                    "uid": "1000059553"
+                },
+                "highlightedFields": {}
+            },
+            {
+                "data": {
+                    "id": "4038",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/felipe-bunes",
+                    "name": "Felipe Bunes",
+                    "c_activeInAnswers": true,
+                    "c_age": "35",
+                    "c_dOB": "1989-10-29",
+                    "c_fightingOutOfCity": "Natal",
+                    "c_fightingOutOfCountry": "Brazil",
+                    "c_fightingOutOfState": "Rio Grande do Norte",
+                    "c_fightingOutOfTriCode": "BRA",
+                    "c_height": "67.0",
+                    "c_homeCity": "Natal",
+                    "c_homeCountry": "Brazil",
+                    "c_homeState": [
+                        "Rio Grande do Norte"
+                    ],
+                    "c_homeTriCode": "BRA",
+                    "c_linkedFights": [
+                        {
+                            "entityId": "11064-Fight",
+                            "name": "Bunes vs   Bondar"
+                        },
+                        {
+                            "entityId": "11134-Fight",
+                            "name": "Van vs   Bunes"
+                        }
+                    ],
+                    "c_nickname": "Felipinho",
+                    "c_photo": {
+                        "url": "https://a.mktgcdn.com/p/QtuC7YIwDo8oXutU6qqDCp-Rl83LafITVTkfjzs1j9w/520x325.png",
+                        "width": 520,
+                        "height": 325,
+                        "sourceUrl": "https://ufclivepubstorage.blob.core.windows.net/public-files/d96740c3-46b3-4a4f-98d9-84c48316427f/BUNES_FELIPE_01-11.png",
+                        "thumbnails": [
+                            {
+                                "url": "https://a.mktgcdn.com/p/QtuC7YIwDo8oXutU6qqDCp-Rl83LafITVTkfjzs1j9w/520x325.png",
+                                "width": 520,
+                                "height": 325
+                            },
+                            {
+                                "url": "https://a.mktgcdn.com/p/QtuC7YIwDo8oXutU6qqDCp-Rl83LafITVTkfjzs1j9w/196x123.png",
+                                "width": 196,
+                                "height": 123
+                            }
+                        ]
+                    },
+                    "c_reach": "69.0",
+                    "c_recordDraws": "0",
+                    "c_recordLosses": "7",
+                    "c_recordNoContests": "0",
+                    "c_recordWins": "14",
+                    "c_stance": "Orthodox",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Felipe-Bunes",
+                    "c_weight": "125.0",
+                    "c_weightClass": "Flyweight",
+                    "c_weightClassAbbreviation": "FLW",
+                    "c_weightClassId": "8",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Felipe",
+                    "gender": "Male",
+                    "lastName": "Bunes",
+                    "uid": "1001137773"
+                },
+                "highlightedFields": {}
+            },
+            {
+                "data": {
+                    "id": "4044",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/igor-severino",
+                    "name": "Igor Severino",
+                    "c_activeInAnswers": true,
+                    "c_age": "21",
+                    "c_dOB": "2003-04-21",
+                    "c_fightingOutOfCity": "Bauru",
+                    "c_fightingOutOfCountry": "Brazil",
+                    "c_fightingOutOfState": "Sao Paulo",
+                    "c_fightingOutOfTriCode": "BRA",
+                    "c_height": "67.0",
+                    "c_homeCity": "Juruti",
+                    "c_homeCountry": "Brazil",
+                    "c_homeState": [
+                        "Para"
+                    ],
+                    "c_homeTriCode": "BRA",
+                    "c_linkedFights": [
+                        {
+                            "entityId": "11260-Fight",
+                            "name": "Severino vs   Lima"
+                        }
+                    ],
+                    "c_photo": {
+                        "url": "https://a.mktgcdn.com/p/kDzgzBSeetfy1dVhS_ByIDM_hq3c2_1e_yPLXvaJvVc/520x325.png",
+                        "width": 520,
+                        "height": 325,
+                        "sourceUrl": "https://ufclivepubstorage.blob.core.windows.net/public-files/95d92bbf-0d1d-4794-84ca-989b74892f80/SEVERINO_IGOR_03-23.png",
+                        "thumbnails": [
+                            {
+                                "url": "https://a.mktgcdn.com/p/kDzgzBSeetfy1dVhS_ByIDM_hq3c2_1e_yPLXvaJvVc/520x325.png",
+                                "width": 520,
+                                "height": 325
+                            },
+                            {
+                                "url": "https://a.mktgcdn.com/p/kDzgzBSeetfy1dVhS_ByIDM_hq3c2_1e_yPLXvaJvVc/196x123.png",
+                                "width": 196,
+                                "height": 123
+                            }
+                        ]
+                    },
+                    "c_reach": "69.5",
+                    "c_recordDraws": "0",
+                    "c_recordLosses": "1",
+                    "c_recordNoContests": "0",
+                    "c_recordWins": "8",
+                    "c_stance": "Orthodox",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Igor-Severino",
+                    "c_weight": "125.0",
+                    "c_weightClass": "Flyweight",
+                    "c_weightClassAbbreviation": "FLW",
+                    "c_weightClassId": "8",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Igor",
+                    "gender": "Male",
+                    "lastName": "Severino",
+                    "uid": "1001137774"
+                },
+                "highlightedFields": {}
+            },
+            {
+                "data": {
+                    "id": "4039",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/jhonata-diniz",
+                    "name": "Jhonata Diniz",
+                    "c_activeInAnswers": true,
+                    "c_age": "33",
+                    "c_dOB": "1991-06-23",
+                    "c_fightingOutOfCity": "Curitiba",
+                    "c_fightingOutOfCountry": "Brazil",
+                    "c_fightingOutOfState": "Parana",
+                    "c_fightingOutOfTriCode": "BRA",
+                    "c_height": "76.0",
+                    "c_homeCity": "Curitiba",
+                    "c_homeCountry": "Brazil",
+                    "c_homeState": [
+                        "Parana"
+                    ],
+                    "c_homeTriCode": "BRA",
+                    "c_linkedFights": [
+                        {
+                            "entityId": "11521-Fight",
+                            "name": "Diniz vs   Williams"
+                        },
+                        {
+                            "entityId": "11288-Fight",
+                            "name": "Lane vs   Diniz"
+                        },
+                        {
+                            "entityId": "11642-Fight",
+                            "name": "Lewis vs   Diniz"
+                        }
+                    ],
+                    "c_photo": {
+                        "url": "https://a.mktgcdn.com/p/6F5HC0q7C-ynfQaUTTpZFzZL8BUwtH2b2ho6Za3sIQ4/520x325.png",
+                        "width": 520,
+                        "height": 325,
+                        "sourceUrl": "https://ufclivepubstorage.blob.core.windows.net/public-files/f28dc47d-496b-42b2-bb63-0c6f8f3abf5d/DINIZ_JHONATA_11-16.png",
+                        "thumbnails": [
+                            {
+                                "url": "https://a.mktgcdn.com/p/6F5HC0q7C-ynfQaUTTpZFzZL8BUwtH2b2ho6Za3sIQ4/520x325.png",
+                                "width": 520,
+                                "height": 325
+                            },
+                            {
+                                "url": "https://a.mktgcdn.com/p/6F5HC0q7C-ynfQaUTTpZFzZL8BUwtH2b2ho6Za3sIQ4/196x123.png",
+                                "width": 196,
+                                "height": 123
+                            }
+                        ]
+                    },
+                    "c_reach": "79.5",
+                    "c_recordDraws": "0",
+                    "c_recordLosses": "1",
+                    "c_recordNoContests": "0",
+                    "c_recordWins": "8",
+                    "c_stance": "Orthodox",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Jhonata-Diniz",
+                    "c_weight": "254.0",
+                    "c_weightClass": "Heavyweight",
+                    "c_weightClassAbbreviation": "HW",
+                    "c_weightClassId": "1",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Jhonata",
+                    "gender": "Male",
+                    "lastName": "Diniz",
+                    "uid": "1001137775"
+                },
+                "highlightedFields": {}
+            },
+            {
+                "data": {
+                    "id": "4030",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/feng-pengchao",
+                    "name": "Feng Pengchao",
+                    "c_activeInAnswers": true,
+                    "c_fightingOutOfCountry": "China",
+                    "c_fightingOutOfState": "Hebei",
+                    "c_fightingOutOfTriCode": "CHN",
+                    "c_recordDraws": "1",
+                    "c_recordLosses": "9",
+                    "c_recordNoContests": "0",
+                    "c_recordWins": "15",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Feng-Pengchao",
+                    "c_weight": "135.0",
+                    "c_weightClass": "Featherweight",
+                    "c_weightClassAbbreviation": "FTW",
+                    "c_weightClassId": "6",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Feng",
+                    "gender": "Male",
+                    "lastName": "Pengchao",
+                    "uid": "1001137776"
+                },
+                "highlightedFields": {}
+            },
+            {
+                "data": {
+                    "id": "4046",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/shamil-gaziev",
+                    "name": "Shamil Gaziev",
+                    "c_activeInAnswers": true,
+                    "c_age": "34",
+                    "c_dOB": "1990-02-10",
+                    "c_fightingOutOfCity": "Astrakhan",
+                    "c_fightingOutOfCountry": "Bahrain",
+                    "c_fightingOutOfState": "Astrakhan",
+                    "c_fightingOutOfTriCode": "BRN",
+                    "c_height": "76.0",
+                    "c_homeCity": "Khunzakh",
+                    "c_homeCountry": "Russia",
+                    "c_homeState": [
+                        "Dagestan"
+                    ],
+                    "c_homeTriCode": "RUS",
+                    "c_linkedFights": [
+                        {
+                            "entityId": "11005-Fight",
+                            "name": "Buday vs   Gaziev"
+                        },
+                        {
+                            "entityId": "11228-Fight",
+                            "name": "Rozenstruik vs   Gaziev"
+                        },
+                        {
+                            "entityId": "11495-Fight",
+                            "name": "Gaziev vs   Mayes"
+                        }
+                    ],
+                    "c_photo": {
+                        "url": "https://a.mktgcdn.com/p/5862IMqSmMUyhtoxcvxFjuDHfA3j2fgu7UpigKM0Y04/520x325.png",
+                        "width": 520,
+                        "height": 325,
+                        "sourceUrl": "https://ufclivepubstorage.blob.core.windows.net/public-files/8920941f-845a-4eea-8744-d3a036b36d93/GAZIEV_SHAMIL_02-01.png",
+                        "thumbnails": [
+                            {
+                                "url": "https://a.mktgcdn.com/p/5862IMqSmMUyhtoxcvxFjuDHfA3j2fgu7UpigKM0Y04/520x325.png",
+                                "width": 520,
+                                "height": 325
+                            },
+                            {
+                                "url": "https://a.mktgcdn.com/p/5862IMqSmMUyhtoxcvxFjuDHfA3j2fgu7UpigKM0Y04/196x123.png",
+                                "width": 196,
+                                "height": 123
+                            }
+                        ]
+                    },
+                    "c_reach": "78.5",
+                    "c_recordDraws": "0",
+                    "c_recordLosses": "1",
+                    "c_recordNoContests": "0",
+                    "c_recordWins": "13",
+                    "c_stance": "Orthodox",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Shamil-Gaziev",
+                    "c_weight": "265.0",
+                    "c_weightClass": "Heavyweight",
+                    "c_weightClassAbbreviation": "HW",
+                    "c_weightClassId": "1",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Shamil",
+                    "gender": "Male",
+                    "lastName": "Gaziev",
+                    "uid": "1001137777"
+                },
+                "highlightedFields": {}
+            },
+            {
+                "data": {
+                    "id": "4036",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/chad-hanekom",
+                    "name": "Chad Hanekom",
+                    "c_activeInAnswers": true,
+                    "c_age": "34",
+                    "c_dOB": "1990-04-20",
+                    "c_fightingOutOfCity": "Johannesburg",
+                    "c_fightingOutOfCountry": "South Africa",
+                    "c_fightingOutOfState": "Gauteng",
+                    "c_fightingOutOfTriCode": "RSA",
+                    "c_height": "76.0",
+                    "c_homeCity": "Johannesburg",
+                    "c_homeCountry": "South Africa",
+                    "c_homeState": [
+                        "Gauteng"
+                    ],
+                    "c_homeTriCode": "RSA",
+                    "c_nickname": "Superman",
+                    "c_photo": {
+                        "url": "https://a.mktgcdn.com/p/dOMQgb4xzCus7_fUxBCfHWLKjaCFy9M7KaeZo9tqTTY/520x325.png",
+                        "width": 520,
+                        "height": 325,
+                        "sourceUrl": "https://ufclivepubstorage.blob.core.windows.net/public-files/60fd4047-b7d9-476d-a993-ec0902f6c362/HANEKOM_CHAD_09-05.png",
+                        "thumbnails": [
+                            {
+                                "url": "https://a.mktgcdn.com/p/dOMQgb4xzCus7_fUxBCfHWLKjaCFy9M7KaeZo9tqTTY/520x325.png",
+                                "width": 520,
+                                "height": 325
+                            },
+                            {
+                                "url": "https://a.mktgcdn.com/p/dOMQgb4xzCus7_fUxBCfHWLKjaCFy9M7KaeZo9tqTTY/196x123.png",
+                                "width": 196,
+                                "height": 123
+                            }
+                        ]
+                    },
+                    "c_reach": "74.0",
+                    "c_recordDraws": "0",
+                    "c_recordLosses": "3",
+                    "c_recordNoContests": "0",
+                    "c_recordWins": "9",
+                    "c_stance": "Orthodox",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Chad-Hanekom",
+                    "c_weight": "185.0",
+                    "c_weightClass": "Middleweight",
+                    "c_weightClassAbbreviation": "MW",
+                    "c_weightClassId": "3",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Chad",
+                    "gender": "Male",
+                    "lastName": "Hanekom",
+                    "uid": "1001137778"
+                },
+                "highlightedFields": {}
+            },
+            {
+                "data": {
+                    "id": "4034",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/bruno-lopes",
+                    "name": "Bruno Lopes",
+                    "c_activeInAnswers": true,
+                    "c_age": "31",
+                    "c_dOB": "1993-04-24",
+                    "c_fightingOutOfCity": "Cotia",
+                    "c_fightingOutOfCountry": "Brazil",
+                    "c_fightingOutOfState": "Sao Paulo",
+                    "c_fightingOutOfTriCode": "BRA",
+                    "c_height": "74.0",
+                    "c_homeCity": "Sao Paulo",
+                    "c_homeCountry": "Brazil",
+                    "c_homeState": [
+                        "Sao Paulo"
+                    ],
+                    "c_homeTriCode": "BRA",
+                    "c_nickname": "Brunao",
+                    "c_photo": {
+                        "url": "https://a.mktgcdn.com/p/7vj5WKLbAJpIe2dd4R-8NAC4fWixtWKWn08V2Fa0qZQ/520x325.png",
+                        "width": 520,
+                        "height": 325,
+                        "sourceUrl": "https://ufclivepubstorage.blob.core.windows.net/public-files/59ab49d3-65db-4bf5-99bf-1dc91db91b46/LOPES_BRUNO_01-11.png",
+                        "thumbnails": [
+                            {
+                                "url": "https://a.mktgcdn.com/p/7vj5WKLbAJpIe2dd4R-8NAC4fWixtWKWn08V2Fa0qZQ/520x325.png",
+                                "width": 520,
+                                "height": 325
+                            },
+                            {
+                                "url": "https://a.mktgcdn.com/p/7vj5WKLbAJpIe2dd4R-8NAC4fWixtWKWn08V2Fa0qZQ/196x123.png",
+                                "width": 196,
+                                "height": 123
+                            }
+                        ]
+                    },
+                    "c_reach": "74.5",
+                    "c_recordDraws": "0",
+                    "c_recordLosses": "1",
+                    "c_recordNoContests": "0",
+                    "c_recordWins": "14",
+                    "c_stance": "Orthodox",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Bruno-Lopes",
+                    "c_weight": "205.0",
+                    "c_weightClass": "Light Heavyweight",
+                    "c_weightClassAbbreviation": "LHW",
+                    "c_weightClassId": "2",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Bruno",
+                    "gender": "Male",
+                    "lastName": "Lopes",
+                    "uid": "1001137779"
+                },
+                "highlightedFields": {}
+            },
+            {
+                "data": {
+                    "id": "4032",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/lu-zhengyong",
+                    "name": "Lu Zhengyong",
+                    "c_activeInAnswers": true,
+                    "c_fightingOutOfCountry": "China",
+                    "c_fightingOutOfState": "Shanxi",
+                    "c_fightingOutOfTriCode": "CHN",
+                    "c_recordDraws": "0",
+                    "c_recordLosses": "7",
+                    "c_recordNoContests": "0",
+                    "c_recordWins": "12",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Lu-Zhengyong",
+                    "c_weight": "125.0",
+                    "c_weightClass": "Flyweight",
+                    "c_weightClassAbbreviation": "FLW",
+                    "c_weightClassId": "8",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Lu",
+                    "gender": "Male",
+                    "lastName": "Zhengyong",
+                    "uid": "1001137780"
+                },
+                "highlightedFields": {}
+            },
+            {
+                "data": {
+                    "id": "4033",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/brendson-ribeiro",
+                    "name": "Brendson Ribeiro",
+                    "c_activeInAnswers": true,
+                    "c_age": "28",
+                    "c_dOB": "1996-09-08",
+                    "c_fightingOutOfCity": "Curitiba",
+                    "c_fightingOutOfCountry": "Brazil",
+                    "c_fightingOutOfState": "Parana",
+                    "c_fightingOutOfTriCode": "BRA",
+                    "c_height": "75.0",
+                    "c_homeCity": "Belem",
+                    "c_homeCountry": "Brazil",
+                    "c_homeState": [
+                        "Para"
+                    ],
+                    "c_homeTriCode": "BRA",
+                    "c_linkedFights": [
+                        {
+                            "entityId": "11092-Fight",
+                            "name": "Mingyang vs   Ribeiro"
+                        },
+                        {
+                            "entityId": "11406-Fight",
+                            "name": "Gadzhiyasulov vs   Ribeiro"
+                        },
+                        {
+                            "entityId": "11643-Fight",
+                            "name": "Machado vs   Ribeiro"
+                        }
+                    ],
+                    "c_nickname": "The Gorilla",
+                    "c_photo": {
+                        "url": "https://a.mktgcdn.com/p/4anRZUYkLnyKU2g41_7XX0wh6usvyzPOD8jZa4wvMkQ/520x325.png",
+                        "width": 520,
+                        "height": 325,
+                        "sourceUrl": "https://ufclivepubstorage.blob.core.windows.net/public-files/bb883c6e-fffa-4256-8e55-4652720b6e98/RIBEIRO_BRENDSON_11-02.png",
+                        "thumbnails": [
+                            {
+                                "url": "https://a.mktgcdn.com/p/4anRZUYkLnyKU2g41_7XX0wh6usvyzPOD8jZa4wvMkQ/520x325.png",
+                                "width": 520,
+                                "height": 325
+                            },
+                            {
+                                "url": "https://a.mktgcdn.com/p/4anRZUYkLnyKU2g41_7XX0wh6usvyzPOD8jZa4wvMkQ/196x123.png",
+                                "width": 196,
+                                "height": 123
+                            }
+                        ]
+                    },
+                    "c_reach": "81.0",
+                    "c_recordDraws": "0",
+                    "c_recordLosses": "7",
+                    "c_recordNoContests": "1",
+                    "c_recordWins": "16",
+                    "c_stance": "Orthodox",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Brendson-Ribeiro",
+                    "c_weight": "205.0",
+                    "c_weightClass": "Light Heavyweight",
+                    "c_weightClassAbbreviation": "LHW",
+                    "c_weightClassId": "2",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Brendson",
+                    "gender": "Male",
+                    "lastName": "Ribeiro",
+                    "uid": "1001137781"
+                },
+                "highlightedFields": {}
+            },
+            {
+                "data": {
+                    "id": "4035",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/cameron-rowston",
+                    "name": "Cam Rowston",
+                    "c_activeInAnswers": true,
+                    "c_age": "30",
+                    "c_dOB": "1995-01-19",
+                    "c_fightingOutOfCity": "Auckland",
+                    "c_fightingOutOfCountry": "New Zealand",
+                    "c_fightingOutOfState": "New South Wales",
+                    "c_fightingOutOfTriCode": "NZL",
+                    "c_height": "74.0",
+                    "c_homeCity": "Sydney",
+                    "c_homeCountry": "Australia",
+                    "c_homeState": [
+                        "New South Wales"
+                    ],
+                    "c_homeTriCode": "AUS",
+                    "c_nickname": "Battle Giraffe",
+                    "c_photo": {
+                        "url": "https://a.mktgcdn.com/p/PcMrElIkaO4LfNIZspcrLyqZyZ1jB3WmzEgf8cOBtxQ/520x325.png",
+                        "width": 520,
+                        "height": 325,
+                        "sourceUrl": "https://ufclivepubstorage.blob.core.windows.net/public-files/f4fe56df-80cd-45f0-9d26-be8a322781e5/ROWSTON_CAM_08-20.png",
+                        "thumbnails": [
+                            {
+                                "url": "https://a.mktgcdn.com/p/PcMrElIkaO4LfNIZspcrLyqZyZ1jB3WmzEgf8cOBtxQ/520x325.png",
+                                "width": 520,
+                                "height": 325
+                            },
+                            {
+                                "url": "https://a.mktgcdn.com/p/PcMrElIkaO4LfNIZspcrLyqZyZ1jB3WmzEgf8cOBtxQ/196x123.png",
+                                "width": 196,
+                                "height": 123
+                            }
+                        ]
+                    },
+                    "c_reach": "78.0",
+                    "c_recordDraws": "0",
+                    "c_recordLosses": "3",
+                    "c_recordNoContests": "0",
+                    "c_recordWins": "8",
+                    "c_stance": "Orthodox",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Cameron-Rowston",
+                    "c_weight": "185.0",
+                    "c_weightClass": "Middleweight",
+                    "c_weightClassAbbreviation": "MW",
+                    "c_weightClassId": "3",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Cam",
+                    "gender": "Male",
+                    "lastName": "Rowston",
+                    "uid": "1001137782"
+                },
+                "highlightedFields": {}
+            },
+            {
+                "data": {
+                    "id": "4045",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/jhonata-silva",
+                    "name": "Jhonata Silva",
+                    "c_activeInAnswers": true,
+                    "c_age": "27",
+                    "c_dOB": "1997-04-24",
+                    "c_fightingOutOfCity": "Rio de Janeiro",
+                    "c_fightingOutOfCountry": "Brazil",
+                    "c_fightingOutOfState": "Rio de Janeiro",
+                    "c_fightingOutOfTriCode": "BRA",
+                    "c_height": "65.0",
+                    "c_homeCity": "Rio de Janeiro",
+                    "c_homeCountry": "Brazil",
+                    "c_homeState": [
+                        "Rio de Janeiro"
+                    ],
+                    "c_homeTriCode": "BRA",
+                    "c_photo": {
+                        "url": "https://a.mktgcdn.com/p/ERR0ZPzum8RrhVT8RtyuPbifi2DDbjTbToH3K7Kpf9Q/520x325.png",
+                        "width": 520,
+                        "height": 325,
+                        "sourceUrl": "https://ufclivepubstorage.blob.core.windows.net/public-files/4f7642c1-2e66-4bf3-8429-bada6dbb5825/SILVA_JHONATA_09-19.png",
+                        "thumbnails": [
+                            {
+                                "url": "https://a.mktgcdn.com/p/ERR0ZPzum8RrhVT8RtyuPbifi2DDbjTbToH3K7Kpf9Q/520x325.png",
+                                "width": 520,
+                                "height": 325
+                            },
+                            {
+                                "url": "https://a.mktgcdn.com/p/ERR0ZPzum8RrhVT8RtyuPbifi2DDbjTbToH3K7Kpf9Q/196x123.png",
+                                "width": 196,
+                                "height": 123
+                            }
+                        ]
+                    },
+                    "c_reach": "66.5",
+                    "c_recordDraws": "0",
+                    "c_recordLosses": "2",
+                    "c_recordNoContests": "0",
+                    "c_recordWins": "8",
+                    "c_stance": "Orthodox",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Jhonata-Silva",
+                    "c_weight": "125.0",
+                    "c_weightClass": "Flyweight",
+                    "c_weightClassAbbreviation": "FLW",
+                    "c_weightClassId": "8",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Jhonata",
+                    "gender": "Male",
+                    "lastName": "Silva",
+                    "uid": "1001137783"
+                },
+                "highlightedFields": {}
+            },
+            {
+                "data": {
+                    "id": "4043",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/greg-velasco",
+                    "name": "Greg Velasco",
+                    "c_activeInAnswers": true,
+                    "c_age": "31",
+                    "c_dOB": "1993-09-23",
+                    "c_fightingOutOfCity": "Keansburg",
+                    "c_fightingOutOfCountry": "USA",
+                    "c_fightingOutOfState": "New Jersey",
+                    "c_fightingOutOfTriCode": "USA",
+                    "c_height": "74.0",
+                    "c_homeCity": "Trenton",
+                    "c_homeCountry": "USA",
+                    "c_homeState": [
+                        "New Jersey"
+                    ],
+                    "c_homeTriCode": "USA",
+                    "c_nickname": "The Viking King",
+                    "c_photo": {
+                        "url": "https://a.mktgcdn.com/p/Xzt9i1bf5zYXtQgrtN_WUpvfFZtkpFhZlqFCEV_E4DI/520x325.png",
+                        "width": 520,
+                        "height": 325,
+                        "sourceUrl": "https://ufclivepubstorage.blob.core.windows.net/public-files/96e36eec-81f5-4c26-9b0f-7ffb86c2e564/VELASCO_GREG_09-19.png",
+                        "thumbnails": [
+                            {
+                                "url": "https://a.mktgcdn.com/p/Xzt9i1bf5zYXtQgrtN_WUpvfFZtkpFhZlqFCEV_E4DI/520x325.png",
+                                "width": 520,
+                                "height": 325
+                            },
+                            {
+                                "url": "https://a.mktgcdn.com/p/Xzt9i1bf5zYXtQgrtN_WUpvfFZtkpFhZlqFCEV_E4DI/196x123.png",
+                                "width": 196,
+                                "height": 123
+                            }
+                        ]
+                    },
+                    "c_reach": "70.0",
+                    "c_recordDraws": "0",
+                    "c_recordLosses": "1",
+                    "c_recordNoContests": "0",
+                    "c_recordWins": "6",
+                    "c_stance": "Southpaw",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Greg-Velasco",
+                    "c_weight": "265.0",
+                    "c_weightClass": "Heavyweight",
+                    "c_weightClassAbbreviation": "HW",
+                    "c_weightClassId": "1",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Greg",
+                    "gender": "Male",
+                    "lastName": "Velasco",
+                    "uid": "1001137784"
+                },
+                "highlightedFields": {}
+            },
+            {
+                "data": {
+                    "id": "4040",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/patricia-alujas",
+                    "name": "Patricia Alujas",
+                    "c_activeInAnswers": true,
+                    "c_age": "28",
+                    "c_dOB": "1996-05-08",
+                    "c_fightingOutOfCity": "Asuncion",
+                    "c_fightingOutOfCountry": "Paraguay",
+                    "c_fightingOutOfTriCode": "PAR",
+                    "c_height": "64.0",
+                    "c_homeCity": "Asuncion",
+                    "c_homeCountry": "Paraguay",
+                    "c_homeTriCode": "PAR",
+                    "c_nickname": "The Angel",
+                    "c_photo": {
+                        "url": "https://a.mktgcdn.com/p/Rahx8kULqAWCmVu1qRWrI7fK8Y8-v4ubXR2tA0UuEJE/520x325.png",
+                        "width": 520,
+                        "height": 325,
+                        "sourceUrl": "https://ufclivepubstorage.blob.core.windows.net/public-files/8ddfbae4-1a9a-45e4-b169-afaf8d99d4be/ALUJAS_PATRICIA_09-12.png",
+                        "thumbnails": [
+                            {
+                                "url": "https://a.mktgcdn.com/p/Rahx8kULqAWCmVu1qRWrI7fK8Y8-v4ubXR2tA0UuEJE/520x325.png",
+                                "width": 520,
+                                "height": 325
+                            },
+                            {
+                                "url": "https://a.mktgcdn.com/p/Rahx8kULqAWCmVu1qRWrI7fK8Y8-v4ubXR2tA0UuEJE/196x123.png",
+                                "width": 196,
+                                "height": 123
+                            }
+                        ]
+                    },
+                    "c_reach": "64.0",
+                    "c_recordDraws": "0",
+                    "c_recordLosses": "3",
+                    "c_recordNoContests": "0",
+                    "c_recordWins": "9",
+                    "c_stance": "Orthodox",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Patricia-Alujas",
+                    "c_weight": "115.0",
+                    "c_weightClass": "Womens Strawweight",
+                    "c_weightClassAbbreviation": "WSW",
+                    "c_weightClassId": "32",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Patricia",
+                    "gender": "Female",
+                    "lastName": "Alujas",
+                    "uid": "1001137785"
+                },
+                "highlightedFields": {}
+            },
+            {
+                "data": {
+                    "id": "4047",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/stephanie-bruna-luciano",
+                    "name": "Stephanie Luciano",
+                    "c_activeInAnswers": true,
+                    "c_age": "25",
+                    "c_dOB": "1999-12-16",
+                    "c_fightingOutOfCity": "Belo Horizonte",
+                    "c_fightingOutOfCountry": "Brazil",
+                    "c_fightingOutOfState": "Minas Gerais",
+                    "c_fightingOutOfTriCode": "BRA",
+                    "c_height": "66.0",
+                    "c_homeCity": "Belo Horizonte",
+                    "c_homeCountry": "Brazil",
+                    "c_homeState": [
+                        "Minas Gerais"
+                    ],
+                    "c_homeTriCode": "BRA",
+                    "c_linkedFights": [
+                        {
+                            "entityId": "11523-Fight",
+                            "name": "Luciano vs   Alencar"
+                        }
+                    ],
+                    "c_nickname": "Rondinha",
+                    "c_photo": {
+                        "url": "https://a.mktgcdn.com/p/zZe5fI4oNUDt8YdUdffOeLr5dDWTEv-eg3ftG5piRtc/520x325.png",
+                        "width": 520,
+                        "height": 325,
+                        "sourceUrl": "https://ufclivepubstorage.blob.core.windows.net/public-files/b41ce80e-e265-4f42-b6c1-e45846cff264/LUCIANO_STEPHANIE_08-10.png",
+                        "thumbnails": [
+                            {
+                                "url": "https://a.mktgcdn.com/p/zZe5fI4oNUDt8YdUdffOeLr5dDWTEv-eg3ftG5piRtc/520x325.png",
+                                "width": 520,
+                                "height": 325
+                            },
+                            {
+                                "url": "https://a.mktgcdn.com/p/zZe5fI4oNUDt8YdUdffOeLr5dDWTEv-eg3ftG5piRtc/196x123.png",
+                                "width": 196,
+                                "height": 123
+                            }
+                        ]
+                    },
+                    "c_reach": "65.5",
+                    "c_recordDraws": "1",
+                    "c_recordLosses": "1",
+                    "c_recordNoContests": "0",
+                    "c_recordWins": "6",
+                    "c_stance": "Orthodox",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Stephanie-Bruna-Luciano",
+                    "c_weight": "115.0",
+                    "c_weightClass": "Womens Strawweight",
+                    "c_weightClassAbbreviation": "WSW",
+                    "c_weightClassId": "32",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Stephanie",
+                    "gender": "Female",
+                    "lastName": "Luciano",
+                    "uid": "1001137786"
+                },
+                "highlightedFields": {}
+            },
+            {
+                "data": {
+                    "id": "4041",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/rainn-guerrero",
+                    "name": "Rainn Guerrero",
+                    "c_activeInAnswers": true,
+                    "c_age": "32",
+                    "c_dOB": "1992-05-13",
+                    "c_fightingOutOfCity": "Houston",
+                    "c_fightingOutOfCountry": "USA",
+                    "c_fightingOutOfState": "Texas",
+                    "c_fightingOutOfTriCode": "USA",
+                    "c_height": "66.0",
+                    "c_homeCity": "San Antonio",
+                    "c_homeCountry": "USA",
+                    "c_homeState": [
+                        "Texas"
+                    ],
+                    "c_homeTriCode": "USA",
+                    "c_nickname": "Purple Rainn",
+                    "c_photo": {
+                        "url": "https://a.mktgcdn.com/p/A-H_UHlw1WmK2PdVX_FKOjvFxhy-a505M__YN2UQa5g/520x325.png",
+                        "width": 520,
+                        "height": 325,
+                        "sourceUrl": "https://ufclivepubstorage.blob.core.windows.net/public-files/597768cf-d786-4e33-9b6c-be676bb33274/GUERREO_RAINN_09-05.png",
+                        "thumbnails": [
+                            {
+                                "url": "https://a.mktgcdn.com/p/A-H_UHlw1WmK2PdVX_FKOjvFxhy-a505M__YN2UQa5g/520x325.png",
+                                "width": 520,
+                                "height": 325
+                            },
+                            {
+                                "url": "https://a.mktgcdn.com/p/A-H_UHlw1WmK2PdVX_FKOjvFxhy-a505M__YN2UQa5g/196x123.png",
+                                "width": 196,
+                                "height": 123
+                            }
+                        ]
+                    },
+                    "c_reach": "65.5",
+                    "c_recordDraws": "0",
+                    "c_recordLosses": "2",
+                    "c_recordNoContests": "0",
+                    "c_recordWins": "5",
+                    "c_stance": "Orthodox",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Rainn-Guerrero",
+                    "c_weight": "125.0",
+                    "c_weightClass": "Womens Strawweight",
+                    "c_weightClassAbbreviation": "WSW",
+                    "c_weightClassId": "32",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Rainn",
+                    "gender": "Female",
+                    "lastName": "Guerrero",
+                    "uid": "1001137787"
+                },
+                "highlightedFields": {}
+            },
+            {
+                "data": {
+                    "id": "4037",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/corinne-laframboise",
+                    "name": "Corinne Laframboise",
+                    "c_activeInAnswers": true,
+                    "c_age": "35",
+                    "c_dOB": "1989-05-25",
+                    "c_fightingOutOfCity": "Saint-Lambert",
+                    "c_fightingOutOfCountry": "Canada",
+                    "c_fightingOutOfState": "Quebec",
+                    "c_fightingOutOfTriCode": "CAN",
+                    "c_height": "64.0",
+                    "c_homeCity": "Greenfield Park",
+                    "c_homeCountry": "Canada",
+                    "c_homeState": [
+                        "Quebec"
+                    ],
+                    "c_homeTriCode": "CAN",
+                    "c_photo": {
+                        "url": "https://a.mktgcdn.com/p/Ls6fMF9Cm3Ad1QRVwICYxLYCCHcNfd3Uao194IMORf8/520x325.png",
+                        "width": 520,
+                        "height": 325,
+                        "sourceUrl": "https://ufclivepubstorage.blob.core.windows.net/public-files/9ea99dfb-1847-4aae-9a75-dd3596c46d89/LAFRAMBOISE_CORINNE.png",
+                        "thumbnails": [
+                            {
+                                "url": "https://a.mktgcdn.com/p/Ls6fMF9Cm3Ad1QRVwICYxLYCCHcNfd3Uao194IMORf8/520x325.png",
+                                "width": 520,
+                                "height": 325
+                            },
+                            {
+                                "url": "https://a.mktgcdn.com/p/Ls6fMF9Cm3Ad1QRVwICYxLYCCHcNfd3Uao194IMORf8/196x123.png",
+                                "width": 196,
+                                "height": 123
+                            }
+                        ]
+                    },
+                    "c_reach": "65.0",
+                    "c_recordDraws": "0",
+                    "c_recordLosses": "5",
+                    "c_recordNoContests": "0",
+                    "c_recordWins": "8",
+                    "c_stance": "Orthodox",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Corinne-Laframboise",
+                    "c_weight": "125.0",
+                    "c_weightClass": "Womens Flyweight",
+                    "c_weightClassAbbreviation": "WFLW",
+                    "c_weightClassId": "35",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Corinne",
+                    "gender": "Female",
+                    "lastName": "Laframboise",
+                    "uid": "1001137788"
+                },
+                "highlightedFields": {}
+            },
+            {
+                "data": {
+                    "id": "4042",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/fabiola-pidroni",
+                    "name": "Fabiola Pidroni",
+                    "c_activeInAnswers": true,
+                    "c_age": "31",
+                    "c_dOB": "1994-01-04",
+                    "c_fightingOutOfCountry": "Italy",
+                    "c_fightingOutOfTriCode": "ITA",
+                    "c_nickname": "The Queen",
+                    "c_recordDraws": "0",
+                    "c_recordLosses": "0",
+                    "c_recordNoContests": "0",
+                    "c_recordWins": "5",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Fabiola-Pidroni",
+                    "c_weight": "115.0",
+                    "c_weightClass": "Womens Strawweight",
+                    "c_weightClassAbbreviation": "WSW",
+                    "c_weightClassId": "32",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Fabiola",
+                    "gender": "Female",
+                    "lastName": "Pidroni",
+                    "uid": "1001137789"
+                },
+                "highlightedFields": {}
+            },
+            {
+                "data": {
+                    "id": "4031",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/junye-gao",
+                    "name": "Junye Gao",
+                    "c_activeInAnswers": true,
+                    "c_fightingOutOfCountry": "China",
+                    "c_fightingOutOfState": "Heilongjiang",
+                    "c_fightingOutOfTriCode": "CHN",
+                    "c_recordDraws": "0",
+                    "c_recordLosses": "12",
+                    "c_recordNoContests": "0",
+                    "c_recordWins": "19",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Junye-Gao",
+                    "c_weight": "125.0",
+                    "c_weightClass": "Bantamweight",
+                    "c_weightClassAbbreviation": "BW",
+                    "c_weightClassId": "7",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Junye",
+                    "gender": "Male",
+                    "lastName": "Gao",
+                    "uid": "1001138147"
+                },
+                "highlightedFields": {}
+            },
+            {
+                "data": {
+                    "id": "4051",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/hyder-amil",
+                    "name": "Hyder Amil",
+                    "c_activeInAnswers": true,
+                    "c_age": "34",
+                    "c_dOB": "1990-05-28",
+                    "c_fightingOutOfCity": "San Rafael",
+                    "c_fightingOutOfCountry": "USA",
+                    "c_fightingOutOfState": "California",
+                    "c_fightingOutOfTriCode": "USA",
+                    "c_height": "69.0",
+                    "c_homeCity": "Cebu City",
+                    "c_homeCountry": "Philippines",
+                    "c_homeState": [
+                        "Cebu"
+                    ],
+                    "c_homeTriCode": "PHI",
+                    "c_linkedFights": [
+                        {
+                            "entityId": "11085-Fight",
+                            "name": "Nuerdanbieke vs   Amil"
+                        },
+                        {
+                            "entityId": "11155-Fight",
+                            "name": "Baghdasaryan vs   Amil"
+                        },
+                        {
+                            "entityId": "11224-Fight",
+                            "name": "Garcia vs   Amil"
+                        },
+                        {
+                            "entityId": "11443-Fight",
+                            "name": "Lee vs   Amil"
+                        }
+                    ],
+                    "c_nickname": "The Hurricane",
+                    "c_photo": {
+                        "url": "https://a.mktgcdn.com/p/ARYIWdQwo8L8CXHvDg9ckV9TRPB7Uqh25fUhTNXElU0/520x325.png",
+                        "width": 520,
+                        "height": 325,
+                        "sourceUrl": "https://ufclivepubstorage.blob.core.windows.net/public-files/00a81f07-cbe1-436f-bc71-53b4551d72b5/AMIL_HYDER_07-20.png",
+                        "thumbnails": [
+                            {
+                                "url": "https://a.mktgcdn.com/p/ARYIWdQwo8L8CXHvDg9ckV9TRPB7Uqh25fUhTNXElU0/520x325.png",
+                                "width": 520,
+                                "height": 325
+                            },
+                            {
+                                "url": "https://a.mktgcdn.com/p/ARYIWdQwo8L8CXHvDg9ckV9TRPB7Uqh25fUhTNXElU0/196x123.png",
+                                "width": 196,
+                                "height": 123
+                            }
+                        ]
+                    },
+                    "c_reach": "70.0",
+                    "c_recordDraws": "0",
+                    "c_recordLosses": "0",
+                    "c_recordNoContests": "0",
+                    "c_recordWins": "10",
+                    "c_stance": "Switch",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Hyder-Amil",
+                    "c_weight": "145.0",
+                    "c_weightClass": "Featherweight",
+                    "c_weightClassAbbreviation": "FTW",
+                    "c_weightClassId": "6",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Hyder",
+                    "gender": "Male",
+                    "lastName": "Amil",
+                    "uid": "1001782033"
+                },
+                "highlightedFields": {}
+            },
+            {
+                "data": {
+                    "id": "4065",
+                    "type": "ce_athletes",
+                    "landingPageUrl": "http://www.ufc.com/athlete/kaik-brito",
+                    "name": "Kaik Brito",
+                    "c_activeInAnswers": true,
+                    "c_age": "27",
+                    "c_dOB": "1997-03-26",
+                    "c_fightingOutOfCity": "Goiania",
+                    "c_fightingOutOfCountry": "Brazil",
+                    "c_fightingOutOfState": "Goias",
+                    "c_fightingOutOfTriCode": "BRA",
+                    "c_height": "71.0",
+                    "c_homeCity": "Goiania",
+                    "c_homeCountry": "Brazil",
+                    "c_homeState": [
+                        "Goias"
+                    ],
+                    "c_homeTriCode": "BRA",
+                    "c_photo": {
+                        "url": "https://a.mktgcdn.com/p/8yR6MrRkjU2RTXw_GLhEsgDIt8HPeLL2_zmQDCTiGTo/520x325.png",
+                        "width": 520,
+                        "height": 325,
+                        "sourceUrl": "https://ufclivepubstorage.blob.core.windows.net/public-files/5d67c20b-c447-4638-98f6-d9b89b90a670/BRITO_KAIK.png",
+                        "thumbnails": [
+                            {
+                                "url": "https://a.mktgcdn.com/p/8yR6MrRkjU2RTXw_GLhEsgDIt8HPeLL2_zmQDCTiGTo/520x325.png",
+                                "width": 520,
+                                "height": 325
+                            },
+                            {
+                                "url": "https://a.mktgcdn.com/p/8yR6MrRkjU2RTXw_GLhEsgDIt8HPeLL2_zmQDCTiGTo/196x123.png",
+                                "width": 196,
+                                "height": 123
+                            }
+                        ]
+                    },
+                    "c_reach": "72.5",
+                    "c_recordDraws": "0",
+                    "c_recordLosses": "5",
+                    "c_recordNoContests": "0",
+                    "c_recordWins": "16",
+                    "c_stance": "Orthodox",
+                    "c_uFCLink": "http://www.ufc.com/athlete/Kaik-Brito",
+                    "c_weight": "170.0",
+                    "c_weightClass": "Lightweight",
+                    "c_weightClassAbbreviation": "LW",
+                    "c_weightClassId": "5",
+                    "c_weightClassOrder": "1",
+                    "firstName": "Kaik",
+                    "gender": "Male",
+                    "lastName": "Brito",
+                    "uid": "1001782034"
+                },
+                "highlightedFields": {}
+            }
+        ],
+        "appliedQueryFilters": [
+            {
+                "displayKey": "Entity Type",
+                "displayValue": "Athletes",
+                "filter": {
+                    "builtin.entityType": {
+                        "$eq": "Athletes"
+                    }
+                },
+                "type": "FIELD_VALUE",
+                "isOverride": false
+            }
+        ],
+        "facets": [
+            {
+                "fieldId": "gender",
+                "displayName": "Gender",
+                "options": [
+                    {
+                        "displayName": "Male",
+                        "count": 2710,
+                        "selected": false,
+                        "filter": {
+                            "gender": {
+                                "$eq": "Male"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Female",
+                        "count": 305,
+                        "selected": false,
+                        "filter": {
+                            "gender": {
+                                "$eq": "Female"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "fieldId": "c_weightClass",
+                "displayName": "Weight Class",
+                "options": [
+                    {
+                        "displayName": "Lightweight",
+                        "count": 490,
+                        "selected": false,
+                        "filter": {
+                            "c_weightClass": {
+                                "$eq": "Lightweight"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Welterweight",
+                        "count": 480,
+                        "selected": false,
+                        "filter": {
+                            "c_weightClass": {
+                                "$eq": "Welterweight"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Middleweight",
+                        "count": 388,
+                        "selected": false,
+                        "filter": {
+                            "c_weightClass": {
+                                "$eq": "Middleweight"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Featherweight",
+                        "count": 333,
+                        "selected": false,
+                        "filter": {
+                            "c_weightClass": {
+                                "$eq": "Featherweight"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Bantamweight",
+                        "count": 298,
+                        "selected": false,
+                        "filter": {
+                            "c_weightClass": {
+                                "$eq": "Bantamweight"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Heavyweight",
+                        "count": 294,
+                        "selected": false,
+                        "filter": {
+                            "c_weightClass": {
+                                "$eq": "Heavyweight"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Light Heavyweight",
+                        "count": 234,
+                        "selected": false,
+                        "filter": {
+                            "c_weightClass": {
+                                "$eq": "Light Heavyweight"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Flyweight",
+                        "count": 194,
+                        "selected": false,
+                        "filter": {
+                            "c_weightClass": {
+                                "$eq": "Flyweight"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Womens Strawweight",
+                        "count": 130,
+                        "selected": false,
+                        "filter": {
+                            "c_weightClass": {
+                                "$eq": "Womens Strawweight"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Womens Flyweight",
+                        "count": 90,
+                        "selected": false,
+                        "filter": {
+                            "c_weightClass": {
+                                "$eq": "Womens Flyweight"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Womens Bantamweight",
+                        "count": 76,
+                        "selected": false,
+                        "filter": {
+                            "c_weightClass": {
+                                "$eq": "Womens Bantamweight"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Womens Featherweight",
+                        "count": 9,
+                        "selected": false,
+                        "filter": {
+                            "c_weightClass": {
+                                "$eq": "Womens Featherweight"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "fieldId": "c_homeCountry",
+                "displayName": "Home Country",
+                "options": [
+                    {
+                        "displayName": "USA",
+                        "count": 1919,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "USA"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Brazil",
+                        "count": 501,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Brazil"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Japan",
+                        "count": 206,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Japan"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Russia",
+                        "count": 112,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Russia"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Canada",
+                        "count": 111,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Canada"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "United Kingdom",
+                        "count": 105,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "United Kingdom"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Mexico",
+                        "count": 62,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Mexico"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "South Korea",
+                        "count": 58,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "South Korea"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Australia",
+                        "count": 54,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Australia"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "China",
+                        "count": 54,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "China"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "France",
+                        "count": 43,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "France"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Poland",
+                        "count": 37,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Poland"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Netherlands",
+                        "count": 30,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Netherlands"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Sweden",
+                        "count": 25,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Sweden"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Germany",
+                        "count": 24,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Germany"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Ireland",
+                        "count": 16,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Ireland"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "New Zealand",
+                        "count": 15,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "New Zealand"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Peru",
+                        "count": 15,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Peru"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Ukraine",
+                        "count": 14,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Ukraine"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Argentina",
+                        "count": 12,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Argentina"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Georgia",
+                        "count": 12,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Georgia"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Italy",
+                        "count": 12,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Italy"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Kazakstan",
+                        "count": 11,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Kazakstan"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Philippines",
+                        "count": 11,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Philippines"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "South Africa",
+                        "count": 11,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "South Africa"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Croatia",
+                        "count": 10,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Croatia"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Cuba",
+                        "count": 10,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Cuba"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Indonesia",
+                        "count": 10,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Indonesia"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Lithuania",
+                        "count": 10,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Lithuania"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Armenia",
+                        "count": 9,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Armenia"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "India",
+                        "count": 9,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "India"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Czech Republic",
+                        "count": 8,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Czech Republic"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Denmark",
+                        "count": 8,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Denmark"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Uzbekistan",
+                        "count": 8,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Uzbekistan"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Venezuela",
+                        "count": 8,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Venezuela"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Iran",
+                        "count": 7,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Iran"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Jamaica",
+                        "count": 7,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Jamaica"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Nigeria",
+                        "count": 7,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Nigeria"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Norway",
+                        "count": 7,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Norway"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Romania",
+                        "count": 7,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Romania"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Spain",
+                        "count": 7,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Spain"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Finland",
+                        "count": 6,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Finland"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Israel",
+                        "count": 6,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Israel"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Tajikistan",
+                        "count": 6,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Tajikistan"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Bosnia and Herzegovina",
+                        "count": 5,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Bosnia and Herzegovina"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Ecuador",
+                        "count": 5,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Ecuador"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Serbia",
+                        "count": 5,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Serbia"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Afghanistan",
+                        "count": 4,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Afghanistan"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belgium",
+                        "count": 4,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Belgium"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Bulgaria",
+                        "count": 4,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Bulgaria"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Cameroon",
+                        "count": 4,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Cameroon"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Colombia",
+                        "count": 4,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Colombia"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Guam",
+                        "count": 4,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Guam"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Moldova",
+                        "count": 4,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Moldova"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Vietnam",
+                        "count": 4,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Vietnam"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Albania",
+                        "count": 3,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Albania"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Angola",
+                        "count": 3,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Angola"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Austria",
+                        "count": 3,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Austria"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belarus",
+                        "count": 3,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Belarus"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Bolivia",
+                        "count": 3,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Bolivia"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Chile",
+                        "count": 3,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Chile"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Congo",
+                        "count": 3,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Congo"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Dominican Republic",
+                        "count": 3,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Dominican Republic"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Iraq",
+                        "count": 3,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Iraq"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Kyrgyzstan",
+                        "count": 3,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Kyrgyzstan"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Mongolia",
+                        "count": 3,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Mongolia"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Morocco",
+                        "count": 3,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Morocco"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Panama",
+                        "count": 3,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Panama"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Switzerland",
+                        "count": 3,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Switzerland"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "The Democratic Republic of Congo",
+                        "count": 3,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "The Democratic Republic of Congo"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Turkey",
+                        "count": 3,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Turkey"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Azerbaijan",
+                        "count": 2,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Azerbaijan"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Bahamas",
+                        "count": 2,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Bahamas"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Cyprus",
+                        "count": 2,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Cyprus"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "El Salvador",
+                        "count": 2,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "El Salvador"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Estonia",
+                        "count": 2,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Estonia"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Hungary",
+                        "count": 2,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Hungary"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Jordan",
+                        "count": 2,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Jordan"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Palestine",
+                        "count": 2,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Palestine"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Paraguay",
+                        "count": 2,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Paraguay"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Portugal",
+                        "count": 2,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Portugal"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Puerto Rico",
+                        "count": 2,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Puerto Rico"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Singapore",
+                        "count": 2,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Singapore"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Slovakia",
+                        "count": 2,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Slovakia"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Suriname",
+                        "count": 2,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Suriname"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Syria",
+                        "count": 2,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Syria"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Thailand",
+                        "count": 2,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Thailand"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Uruguay",
+                        "count": 2,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Uruguay"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Zimbabwe",
+                        "count": 2,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Zimbabwe"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Algeria",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Algeria"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "American Samoa",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "American Samoa"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Anguilla",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Anguilla"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Cape Verde",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Cape Verde"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Costa Rica",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Costa Rica"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Egypt",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Egypt"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Ghana",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Ghana"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Greece",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Greece"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Grenada",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Grenada"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Guyana",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Guyana"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Haiti",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Haiti"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Hong Kong",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Hong Kong"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Iceland",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Iceland"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Kurdistan",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Kurdistan"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Latvia",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Latvia"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Lebanon",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Lebanon"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Liberia",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Liberia"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Macedonia",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Macedonia"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Montenegro",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Montenegro"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Myanmar",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Myanmar"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Nicaragua",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Nicaragua"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Niger",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Niger"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Solomon Islands",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Solomon Islands"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Taiwan",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Taiwan"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Trinidad and Tobago",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Trinidad and Tobago"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Tunisia",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Tunisia"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "U.S. Virgin Islands",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "U.S. Virgin Islands"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Uganda",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "Uganda"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "United Arab Emirates",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_homeCountry": {
+                                "$eq": "United Arab Emirates"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "fieldId": "c_accolades",
+                "displayName": "Accolades",
+                "options": [
+                    {
+                        "displayName": "Belt UFC Bantamweight  2023-08-19",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Bantamweight  2023-08-19"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Bantamweight  2024-09-14",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Bantamweight  2024-09-14"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Featherweight  2024-02-17",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Featherweight  2024-02-17"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Flyweight  2023-07-08",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Flyweight  2023-07-08"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Heavyweight  2023-03-04",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Heavyweight  2023-03-04"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Interim Featherweight  2023-02-11",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Interim Featherweight  2023-02-11"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Interim Heavyweight  2023-11-11",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Interim Heavyweight  2023-11-11"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Light Heavyweight  2021-10-30",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Light Heavyweight  2021-10-30"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Light Heavyweight  2022-06-11",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Light Heavyweight  2022-06-11"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Light Heavyweight  2023-11-11",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Light Heavyweight  2023-11-11"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Lightweight  2021-05-15",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Lightweight  2021-05-15"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Lightweight  2022-10-22",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Lightweight  2022-10-22"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Middleweight  2024-01-20",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Middleweight  2024-01-20"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Welterweight  2022-08-20",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Welterweight  2022-08-20"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Welterweight  2024-07-27",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Welterweight  2024-07-27"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Women's Bantamweight  2024-01-20",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Women's Bantamweight  2024-01-20"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Women's Bantamweight  2024-10-05",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Women's Bantamweight  2024-10-05"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Women's Featherweight  2018-12-29 ,\"{\"\"Type\"\":\"\"Belt UFC Women's Bantamweight  2022-07-30",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Women's Featherweight  2018-12-29 ,\"{\"\"Type\"\":\"\"Belt UFC Women's Bantamweight  2022-07-30"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Women's Flyweight  2023-03-04",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Women's Flyweight  2023-03-04"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Women's Flyweight  2024-09-14",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Women's Flyweight  2024-09-14"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Women's Strawweight  2021-04-24",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Women's Strawweight  2021-04-24"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Women's Strawweight  2022-05-07",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Women's Strawweight  2022-05-07"
+                            }
+                        }
+                    },
+                    {
+                        "displayName": "Belt UFC Women's Strawweight  2022-11-12",
+                        "count": 1,
+                        "selected": false,
+                        "filter": {
+                            "c_accolades": {
+                                "$eq": "Belt UFC Women's Strawweight  2022-11-12"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "source": "KNOWLEDGE_MANAGER",
+        "searchIntents": []
+    }
+}

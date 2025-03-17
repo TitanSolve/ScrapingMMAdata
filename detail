@@ -1,0 +1,637 @@
+Marko Jerinic 5:33 AM
+Hi,
+
+
+
+I am Marko from Serbia and I am very interesting in your project.
+As a software engineer and a fan of sports(combat sports), I am very motivated to work on your project.
+I have 8+ years of experience in software development using Python, Javascript.
+In my last project, I have worked as a full stack engineer for building AI platform.
+My client wanted to build Voice to Voice converting system and I used Next.js for the frontend and Python(Django framework) for the backend.
+By using this app, users would listen and watch all the medias as their language.
+
+
+
+For developing forecasting system, we will need a lot of dataset to fine-tune neural network.
+We will need all the analysis data for the players. I'd like to watch your model and discuss about it with you.
+I am very motivated to handle your project successfully.
+
+
+
+Can't wait to meet you and discuss about the project.
+Thanks.
+Marko
+
+View details
+SB
+Sam Bachmann 5:33 AM
+Let me know if this makes sense to you
+
+
+
+Primary factor-the data that trumps all. Secondary-the data that acts as a tie breaker the closer the above comes to a tie, it gets considered more and more and it can go down the list like this indefinitely. I use this method through out
+
+
+
+(Wins/losses ratio x speed of win x how close decision was x win incline/decline rate at time x deviation from bookies win prediction x deviation from bookies loss prediction how x rate of bookies improvement/worsening over time of those two) x all this for previous competitors and competitors of competitors and so on and so forth to give the most accurate number possible. Added note-this means the program ranks every single fighter in history from most to least relevant by how far down the line they are and then it will use this data as the secondary factor and the closer they are using this ranking system the greater the influence the above logic has. Everything above will also be done for fights but that is a secondary factor to the fighters. So when I mention this again this is actually what I mean.
+
+
+
+Bookies will be ordered from most to least off the mark based on these factors for the individual fighter and then factoring improvement/worsening rate. The other factors to go down the list can be other stats like how fight will end (ko etc.), what round, time in round only if they guessed the round correctly (to see how close they got) and if split decision how close was it? We then do that for his previous competition and so on and so forth. Then we do all this but for the people who bet and then factor in the difference more and more the wider it becomes and then do that for the prev comp etc. (To explain better the closer two bookies are to tying the more the other factor gets factored and the more that factor is tied between the bookies the more the one gets factored and so on and so forth). Edit-the smaller the difference is between the two fighters is the more the more we will just look at how well the bookies generally do as a secondary factor, essentially it will do what’s done above but for every single fighter and then all that data will be factored in together and it will also do this for fights
+
+
+
+Forgot to mention the smaller the fighters record is the more the numbers get shortened as there isn’t as much data to go off so there is greater chance off variance so we have to account for that and then do that for prev comp etc.
+
+
+
+To better predict a bad judgement we can go off judges previous dissent from peers and by what degree and the rate of improvement/worsening over time and then we compare that to the judges they judged with and so on and so forth and then as a secondary factor we go by how off they are with the bookies based on those same factors compared to the other judges and so on and so forth again and then based on how off they were in terms of how unanimous/non unanimous the decision was from the stand point of wether the bookies said split or unanimous this is to paint the most accurate picture possible no matter how small off a difference this would make. Edit-we do that with those metrics but there’s 2 factors-primary is the difference between the two fighters based on these. The second is the likelihood/degree of a bad decision for the individual competitor irrespective of the other competitor as the first factor gets closer and closer to tying.
+
+
+
+- [ ] Edit-everywhere I mention a primary factor the actual primary factor is the difference between the two fighters and the closer it is the more the secondary come into play. This means every single hypothetical matchup of fighters is taken into account to some extent. Also individual fights and fighters as secondary factors are factored together rather than seperate factors as they’re of equal importance. So basically everything that’s done here is done for ever single hypothetical matchup of fighters then individual fighters x fights as the secondary factor to determine the outcome of one fight
+
+Thursday, Jan 30
+Marko Jerinic 2:37 PM
+Hi, Sam. Good day.
+
+Marko Jerinic 2:49 PM
+You removed this message
+
+You removed this message
+
+Marko Jerinic 6:56 PM
+The primary factor is the difference between two fighters. So the closer the fighters are in terms of strengh/performance, the more secondary factors gain importance.
+Second fators act as tie-breakers the closer the primary factors is to an even match.
+
+Your model should be a multi-layered, data-driven forecasting model.
+1. Starts with fighter performance differences as the primary metric.
+2. Gradually incorporates secondary fafctors based on closeness of competition.
+3. Ranks bookies and judges based on long-term predictive accuracy.
+4. Simulates all possible fighter matchups to refine forecasts.
+5. Adjusts for missing or limited data to avoid overconfidence in predictions.
+
+As a software engineer, I am very interested in this project.
+
+Friday, Jan 31
+SB
+Sam Bachmann 3:03 AM
+I think the ranking of factors from most to least important should be calculated by the program by how much they correlate with the final result that way it takes the guess work out of things and even if we add a factor that isn’t particularly useful it’s ok because it will show in the results as it won’t correlate much with the result. So basically I’ll just list off different potential factors and you can add them as we go along. Does that make sense?
+
+Marko Jerinic 3:48 AM
+That makes sense.
+
+Marko Jerinic 3:53 AM
+Instead of manually ranking factors from the most to least important, the program should automatically determine their importance by measuring how much each factor correlates with actual fight outcomes.
+
+If a factor has little or no correlation with outcomes, its weight should be automatically reduced.
+
+I think, I need to implement a machine learning model that automatically learns the importance of each factor.
+
+SB
+Sam Bachmann 7:27 AM
+So what I need to know is how much will it cost, how long it will take and can this run on a normal computer?
+
+Marko Jerinic 8:59 AM
+I think, it would be take about 8 ~ 10 weeks.
+
+SB
+Sam Bachmann 10:58 AM
+Ok and do you know the cost roughly?
+
+Marko Jerinic 11:05 AM
+10k ~ 12k
+
+SB
+Sam Bachmann 11:08 AM
+Do you think this will beat the bookies to make money?
+
+Long term?
+
+Marko Jerinic 11:11 AM
+It depends but I believe that it's possible to beat the bookies if we make the model perfectly
+
+SB
+Sam Bachmann 11:19 AM
+Depends on what and what do you mean by perfectly? Also is there any chance we could make this transaction through another channel for a better price?
+
+Marko Jerinic 11:22 AM
+I think, yes
+
+I mean, well-designed model can find inefficiencies of bookmakers and exploit them. Finally it will beat the bookies to make money, I think.
+
+SB
+Sam Bachmann 11:27 AM
+What if I payed you back through a cut of the winnings?
+
+Marko Jerinic 11:34 AM
+How about to work as $25/hr for now?
+
+After release project, you can payback through a cut of the winnings remaining budget
+
+Marko Jerinic 11:46 AM
+Does it work for you?
+
+Marko Jerinic 11:51 AM
+If you want, I can work on your timezone from Monday.
+
+SB
+Sam Bachmann 11:57 AM
+How much would be remaining?
+
+Marko Jerinic 12:35 PM
+I think, it would be 2k
+
+SB
+Sam Bachmann 12:43 PM
+How about I pay when it’s finished and you demonstrate through videos?
+
+Marko Jerinic 12:44 PM
+As you know, it's not short term development. If you don't pay during development, I can't encourage my work progress.
+
+From the start, I will report all the progress to you every day.
+
+So that you can measure my work progress.
+
+And I will deploy my updates so that you can see the live updates
+
+SB
+Sam Bachmann 12:46 PM
+Is what I’m doing already being done by someone or by bookies or is this a completely original model?
+
+Marko Jerinic 12:47 PM
+I think, it's the original model.
+
+I didn't hear about that even I am a big fan of fighting sports
+
+I am ready to start.
+
+SB
+Sam Bachmann 12:52 PM
+Ok I’m gonna think about this for a few days before I spend money again
+
+Marko Jerinic 12:52 PM
+Gotcha. When can we meet again?
+
+How about next Monday?
+
+SB
+Sam Bachmann 12:53 PM
+That should work
+
+Marko Jerinic 12:54 PM
+Great. Have a good weekend
+
+SB
+Sam Bachmann 12:59 PM
+I’ll keep you updated with stuff though like how to account for variance within a short fight record. What I’m thinking is we see how much success/failure in a given time frame correlated with a future time. But could you please outline the model for me so I know where on the same page? Thanks
+
+Marko Jerinic 1:04 PM
+Yeah.
+
+The primary goal of this model is to predict the probability of a fighter winning.
+
+Second goal would be to predict method of victory, round of victory and decision accuracy.
+
+Instead of manually ranking factors, the model calculates their importance based on correlation with actual results.
+
+SB
+Sam Bachmann 1:10 PM
+Can you explain how every pro fight in history is factored in?
+
+Marko Jerinic 1:13 PM
+Our model will use historical fight data to establish relationship between fighters, fight outcomes and betting market inefficiencies. Every pro fight is considered in a networked ranking system
+
+Each fighter is assigned a relative ranking based on how they performed against ranked competition and these rankings update dynamically as new data comes in.
+
+For every fight, the system doesn't just look at the two fighters involved. It traces back through fight history to weigh indirect infuences.
+
+For example we will tracing a fighter's strength via opponent's history.
+
+Also if two fighters never fought, their performance vs common opponents is used to predict outcomes.
+
+SB
+Sam Bachmann 1:22 PM
+So think of it like a pyramid starting from the top with the fight and fighters at hand and then it works down from there with every one degree of separation being a new pyramid and we can actually use degrees of separation between two different fights/fighters as another correlative factor and we can even use hypothetical matchups and have that be another factor
+
+Marko Jerinic 1:23 PM
+100% agree.
+
+It makes a lot of sense. The fight at hand is at the top and every level bellow adds historical context with progressively lower weights. Degrees of separation between fights and fighters act as addtional correlative factors, while hypothetical matchups further refine predictions.
+
+SB
+Sam Bachmann 1:33 PM
+Yes but the best way to look at it is even if that theory was somehow not true the program would be able to pick up on it as it calculates a weak correlative factor. So all we’re really doing is listing of factors that we can think of, the program determines the correlation and then ranks accordingly. We can also use the factor of how similar two fights factor ranking is
+
+And that might be redundant but the more the better
+
+Marko Jerinic 1:36 PM
+I fully agree with your approach. We list potential factors, the program calculates correlations and it dynamically ranks them based on predict power. This ensures that if a theory is weak, the model naturally deprioritizes it, avoiding human bias.
+
+Marko Jerinic 1:43 PM
+Do you need beautiful user interface?
+
+SB
+Sam Bachmann 1:44 PM
+No the design doesn’t matter at all
+
+In fact do you think we could bring the price further down in that regard?
+
+Marko Jerinic 1:45 PM
+Yes. but not much.
+
+Because the main purpose is to develop model not a user interface.
+
+I can agree $25/hr.
+
+Could you send me an offer?
+
+I think, it is the lowest rate for AI engineer. You will hire with the cheapest price.😂
+
+SB
+Sam Bachmann 2:12 PM
+Can we meet at 8k?
+
+Also how does it do the calculations and how does it deal with overlap of different factors being similar?
+
+SB
+Sam Bachmann 2:37 PM
+I’m thinking the more the more two factors are a similar number relative to the others the more they are decreased relative and by a percentage equivalent to that of the similarity between the two
+
+Marko Jerinic 3:23 PM
+You removed this message
+
+I think, instead of two separate variables (i.e. KO Rate & Power Punch Accuracy), the model merges them into a composite "Striking Power" feature. If two factors have low correlation, both are kept.
+
+I am okay with your total budget.
+
+SB
+Sam Bachmann 3:42 PM
+So that minus 2k and what Upwork takes?
+
+SB
+Sam Bachmann 3:57 PM
+Explain that again as I’m not sure we’re on the same page
+
+Marko Jerinic 4:29 PM
+Upwork will take the 10% of fee.
+
+The model need to process fight data efficiently, detect and rank correlative factors, and manage overlap between similar factors to avoid double-counting or diluting the predictive power
+
+First of all I Need to build factor data.
+
+To build factor data I will convert each factor into a numerical value for every fight and normalize data.
+
+Secondly, the model checks how much each factor correlates with fight outcomes(win/loss, method of victory etc)
+
+For example, if KO rate has a 0.75 correlation with wins, it's ranked higher than a factor like reach advantage(0.2 correlation)
+
+If a factor shows no correlation over thousands of fights, it's automatically downweighted.
+
+SB
+Sam Bachmann 4:38 PM
+How do you manage overlap?
+
+Marko Jerinic 4:39 PM
+At third, we need to handle overlapping fafctors.
+
+I will use some factors and techniques to detect overlapping factors.
+
+1. VIF(Variance Inflation Factor): This measures how much a factor is explained by other factors.
+
+SB
+Sam Bachmann 4:41 PM
+Does what I mention work?
+
+Also there’s no such thing as no correlation, that’s not the way to look at things
+
+It’s just a number, either more or less than another
+
+Marko Jerinic 4:43 PM
+Yes. That would be work also
+
+SB
+Sam Bachmann 4:44 PM
+So low doesn’t really mean anything on its own here
+
+Marko Jerinic 4:44 PM
+Exactly
+
+If we consider even its value is very low, efficiency of model would be more higher.
+
+What do u think?
+
+I will consider factors as much as possible.
+
+I fully agree with you.
+
+SB
+Sam Bachmann 4:57 PM
+Ok but what did you mean about combining the two?
+
+Marko Jerinic 4:59 PM
+It means that if two factors are so similar that they overlap too much, we can consider it as one factor
+
+For example, KO rate vs Power Punch Accuracy
+
+SB
+Sam Bachmann 5:00 PM
+That doesn’t work for me
+
+I’m not sure you understand where I’m coming from
+
+Marko Jerinic 5:01 PM
+I understand fully what do you mean.
+
+I will list all factors that we can think of then our model will determine the correlation and the ranks accordingly as you want
+
+I just thought too complex
+
+SB
+Sam Bachmann 5:09 PM
+Yeah the problem with what you said is over lap too much means what exactly?
+
+Marko Jerinic 5:10 PM
+For example
+
+KO rate means how often a fighter wins by KO
+
+And Power Punch Accuracy means how often a fighter lands strong strikes
+
+If a fighter has high KO rate, they almost always have high Power Punch Accuracy.
+
+So I said, instead of using them seperately, we can combine them into a new factor.
+
+like Striking Power Index
+
+It can be calculated like Striking Power Index = 0.6*KO Rate + 0.4*Power Punch Accuracy
+
+This is what I thought
+
+make sense?
+
+SB
+Sam Bachmann 5:21 PM
+The problem is that there is no such thing as complete overlap, in fact there is technically always going to be some overlap just might be too small for the model to see so we need a model that can deal with these nuances quantitatively and to a few good decimal places and creating a new factor would require intervention on our part and I don’t want to arbitrarily decide that two factors overlap too much. Do you get what I’m saying?
+
+Marko Jerinic 5:22 PM
+Yes. I agree
+
+SB
+Sam Bachmann 5:25 PM
+I just want to make sure where completely on the same page before I spend any money
+
+Marko Jerinic 5:25 PM
+I got your all point.
+
+I think, this kind of discussion is better for producing best model
+
+We should have the discussion further more during development
+
+Keeping communication is the most important thing, I think
+
+Saturday, Feb 01
+SB
+Sam Bachmann 4:44 AM
+Ok but I can’t spend the money and then run into problems, this is a lot for me
+
+Marko Jerinic 5:56 AM
+How about to divide project into 4 milestones?
+
+SB
+Sam Bachmann 7:55 AM
+Ok that sounds good
+
+Marko Jerinic 9:31 AM
+Great.
+
+SB
+Sam Bachmann 10:25 AM
+So I’m gonna start listing off different factors to add but I need to make sure we adjust for overlap and also for a variance within a smaller sample size of fights, what I’m thinking is the program calculates how much a given record correlates with long term results and the less it does the less it’s factored
+
+Marko Jerinic 10:53 AM
+So far so good. Could you give me offer and set first milestone?
+
+I will prepare my local environment and make documents for development process.
+
+SB
+Sam Bachmann 11:15 AM
+Look I’m still looking at other people and I’ve been given a warning for talking about working outside so let me think about it for a bit
+
+Marko Jerinic 11:18 AM
+Got it. If you make decision, please let me know.
+
+You removed this message
+
+SB
+Sam Bachmann 6:09 PM
+Do you get this?-The similarly between two factors is split with the most correlative of the two factors getting the biggest cut by how much more correlative it is. The part that is different is left unchanged. This simulation is done for every single comparison of two factors and each time just the original factors are used, not the result after another comparison. And then the final result of this process is what the factor is when put into the calculation.
+
+Marko Jerinic 9:26 PM
+Yes. Make sense.
+
+Sunday, Feb 02
+SB
+Sam Bachmann 5:32 AM
+*similarity. Ok good because this is crucial, without it the model won’t work. Also could you send that document again? Thanks
+
+Marko Jerinic 1:41 PM
+You removed this message
+
+SB
+Sam Bachmann 4:19 PM
+Thanks got it. Also could you explain to me why that makes sense?
+
+Marko Jerinic 7:18 PM
+By using your approach, we can prevent double counting while keeping each factor's unique contribution. And we will use only original values to keep calculations fair and unbiased. Also we can avoid arbitrary merging and preserve all meaningful information.
+
+Monday, Feb 03
+SB
+Sam Bachmann 1:58 AM
+Do you get all this? I’m honestly not sure it’s all 100% myself to be honest and I’m kinda just throwing stuff out there as it comes but here it is-
+For all of these where applicable do one for in general and one for every conceivable matchup
+Every conceivable matchup also includes hypothetical matchups averaging out their entire career and then every single point in their career in fact the same fighter can be matched with themselves from different periods in their career
+Increase/decrease in rate of for all applicable
+Suddenness of increase/decrease for all applicable
+This includes the ones from the previous message
+
+
+
+Height relative to fighter in question
+Height difference with opponent
+Height difference with opponent relative to fighter in question
+Reach general
+Reach relative to fighter in question
+Reach difference with opponent
+Reach difference with opponent relative to fighter in question
+Weight
+Punches landed
+Punches defended
+Take downs defended
+Knockouts submissions
+Speed of victory
+Submissions
+Age
+Time as pro
+Tko
+
+
+
+Do all these for all weight classes then seperate weight classes then every combination of weight classes they were in
+Percentage of time spent not fighting as a pro
+Increase/decrease in rate of time spent not fighting
+How sudden the increase/decrease is
+How many fights
+Wins/losses
+How scattered/not scattered the record is
+How many ups and down in record
+Rate if ups and downs
+Difference of all factors between weight classes
+Online search impressions
+How sudden the win rate of win/loss increases decreased
+Date years and months fighting
+How good the competition was at a given time based on these factors
+the difference between that and another time
+Country of origin
+Biological relationship of other fighters
+Wins/losses/ties general
+Wins losses/ties relative to total record
+Knockouts/submissions relative to total record
+Coach(coach accounting uses all same applicable factors)
+There net worth
+
+
+
+The less of a difference made in the total sum of any combination of points in time(put through the factors)x size x difference between sizes the less it gets factored divided by the closer the total sum is to it
+
+
+
+The more the number of times a number appears in the total sum(put through the factors) the less it gets factored
+
+
+
+how spread out the similarity is from the initial point in time(the further away from the starting point it is the less relevance it has) divided by every single combination of times frames(including ones that overlap). The rate of change in a time period(or any combination of time periods including overlapping time periods where the middle is split and the one with correlation gets the majority by how much)/suddenness of the change in a time period(overall and relative to contents in rest of time period and relative to size of time period then do the same but times the two together) and then adjust for overlap for everything
+
+
+
+This is done to better account for periods in time of little to no activity even though it’s not necessary as it will be useful for other things if it can work
+
+Marko Jerinic 2:31 AM
+Let me check.
+
+Marko Jerinic 3:09 AM
+I understand what you are trying to thinking.
+I think, the approach of comparing a fighter to themselves at different career points is really good. Tracking all weight class transitions is a good idea. Fighters don't perform the same in different weight classes. Also Dynamically redistributing their influence based on real correlations is the best way to let the model self-correct.
+
+SB
+Sam Bachmann 4:20 AM
+Ok good.
+
+Marko Jerinic 4:46 AM
+Did you make decision?
+
+SB
+Sam Bachmann 4:47 AM
+Does what you said mean you agree with everything?
+
+Marko Jerinic 7:01 AM
+Yes.
+
+Marko Jerinic 7:20 AM
+I agree with your factors and similarity approach.
+
+In terms of budget, we discussed as 8k and divide it 4 milestones(2k per milestone).
+
+I think, we need to collect data from the official websites that are providing public API.
+
+Marko Jerinic 7:33 AM
+I want add one factor.(Stance: Orthodox, Southpaw or Switch)
+
+SB
+Sam Bachmann 7:38 AM
+Can you even get all the data?
+
+Marko Jerinic 7:39 AM
+Not sure 100%.
+
+But will get as much as possible.
+
+What is the range of fighters?
+
+Should I collect data for all MMA fighters?
+
+SB
+Sam Bachmann 7:52 AM
+Yes but add factors in for different leagues as well and also boxing
+
+Marko Jerinic 7:53 AM
+Gotcha.
+
+If you make decision, please give me offer and set milstone1.
+
+SB
+Sam Bachmann 8:11 AM
+Could you possibly check how much information you can get?
+
+Marko Jerinic 8:13 AM
+Yes. But it would take some time. I will check and let you know tomorrow.
+
+I should check all available public APIs that are providing data.
+
+SB
+Sam Bachmann 8:14 AM
+Ok thanks
+
+Marko Jerinic 7:24 PM
+Hi, Sam. How are you?
+
+I have tried to find the best APIs to collect data. Finally I decided to use wikipedia API. I got the whole fight result of UFC using wikipedia API.
+
+Of course, I need to calculate other factors but its so far so good as starting point.
+
+Please check what I have done today.
+
+Marko Jerinic 7:33 PM
+2 files 
+ufc_fight_results.csv
+316 kB
+ufc-fighters-statistics.csv
+530 kB
+SB
+Sam Bachmann 8:08 PM
+Hey looks good, thanks
+
+Marko Jerinic 8:10 PM
+I can get most of data that we need by scraping wekipidia.
+
+If some data is not available there, I will get from other resources like UFC official sites.
+
+Marko Jerinic 8:16 PM
+I want to divide this project into 4 milestones as we discussed.
+1. Data collection
+2. Data model design
+3. Model development
+4. Integration with backend and testing and deployment
+
+Tuesday, Feb 04
+SB
+Sam Bachmann 2:05 AM
+Ok and remember we’re doing boxing and other mma leagues as well
+
+Marko Jerinic 2:22 AM
+Yes. I am remembering.
+
+Could you give me an offer now?
+
+SB
+Sam Bachmann 6:38 AM
+Sam Bachmann removed this message
+
+Sam Bachmann removed this message
+
+SB
+Sam Bachmann 8:41 AM
+Sam Bachmann removed this message
+
+Marko Jerinic 9:56 AM
+Hi, good day
